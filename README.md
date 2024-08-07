@@ -1,5 +1,5 @@
 # PIFNOeikonal
-This repository will release the codes related to the paper "Seismic traveltime simulation for variable velocity models using physics-informed Fourier neural operator" submitted to IEEE TGRS.
+This repository releases the codes related to the paper "Seismic traveltime simulation for variable velocity models using physics-informed Fourier neural operator" submitted to IEEE TGRS.
 
 # Software requirement
 Python Version: 3.8.16
