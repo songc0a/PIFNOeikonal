@@ -6,6 +6,12 @@ Python Version: 3.8.16
 
 Pytorch Version: 2.0.0+cu117
 
+# Code explanation
+
+PIFNO_eikonal_example.ipynb: Solving the eikonal equation using PIFNO for various models from OpenFWI.
+
+FMM_T_T0.ipynb: Generate reference traveltimes and background traveltimes using FMM.
+
 # Overview
 
 We have developed an innovative multi-source seismic traveltime simulation method adaptable to various velocity models, employing an advanced deep-learning technique known as the physics-informed Fourier neural operator (PIFNO).
