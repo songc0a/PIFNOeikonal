@@ -10,6 +10,8 @@ Pytorch Version: 2.0.0+cu117
 
 We have developed an innovative multi-source seismic traveltime simulation method adaptable to various velocity models, employing an advanced deep-learning technique known as the physics-informed Fourier neural operator (PIFNO).
 ![curvelet50_train_T](https://github.com/user-attachments/assets/5848bd23-cda4-431a-8746-320893c8191a)
+Training data from the CurveVel-A family: velocity models (first column), numerical traveltime from FMM (second column), predicted traveltime from PIFNO (third column), and traveltime difference (fourth column) for a source in the middle.
+
 
 # Citation information
 
