@@ -32,8 +32,7 @@ If you find our codes and publications helpful, please kindly cite the following
   journal={arXiv preprint arXiv:2311.03751},
   
   year={2023}
-  
-  year={2024}
+
 }
 
 # contact information
