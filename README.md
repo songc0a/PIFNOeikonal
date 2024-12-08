@@ -27,11 +27,17 @@ If you find our codes and publications helpful, please kindly cite the following
 
   title={Seismic traveltime simulation for variable velocity models using physics-informed Fourier neural operator},
   
-  author={Song, Chao and Zhao, Tianshuo and Waheed, Umair bin and Liu, Cai},
+  author={Song, Chao and Zhao, Tianshuo and Bin Waheed, Umair and Liu, Cai and Tian, You},
   
-  journal={arXiv preprint arXiv:2311.03751},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
   
-  year={2023}
+  volume={62},
+    
+  number={},
+  
+  pages={4510909},
+  
+  year={2024}
 
 }
 
